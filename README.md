@@ -27,32 +27,7 @@ Hi! I'm Marius, a passionate frontend developer who recently completed my fronte
 
 ## How to View the Site
 
-You can view the portfolio site live at: [Your Portfolio URL Here](#)
-
-## Setup Instructions
-
-To run the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/portfolio-site.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd portfolio-site
-   ```
-3. Install dependencies (if applicable):
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-   ```bash
-   npm start
-   ```
-5. Open your browser and visit:
-   ```
-   http://localhost:3000
-   ```
+You can view the portfolio site live at: [Marius Bjeglerud Portefolio](https://mariusbjeglerud-portefolio.netlify.app/)
 
 ## Future Plans
 
